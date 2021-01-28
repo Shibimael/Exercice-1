@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">anniv</string>
+    <string name="ushi">Ushiwa</string>
+    <string name="bt_shar">Sharingan</string>
+    <string name="input_login">Nom</string>
+    <string name="input_password">Mot de passe</string>
+    <string name="bt_regist">Register</string>
+</resources>
